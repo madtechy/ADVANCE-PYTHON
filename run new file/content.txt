@@ -1,0 +1,2 @@
+This is the scrolling text content that will be displayed in the bottom 30% of the screen.
+It can include multiple lines and paragraphs.
